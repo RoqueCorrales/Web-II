@@ -1,0 +1,10 @@
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\bin\Debug\netcoreapp2.0\RazorHomework.deps.json
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\bin\Debug\netcoreapp2.0\RazorHomework.runtimeconfig.json
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\bin\Debug\netcoreapp2.0\RazorHomework.runtimeconfig.dev.json
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\bin\Debug\netcoreapp2.0\RazorHomework.dll
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\bin\Debug\netcoreapp2.0\RazorHomework.pdb
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\obj\Debug\netcoreapp2.0\RazorHomework.csproj.CoreCompileInputs.cache
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\obj\Debug\netcoreapp2.0\RazorHomework.AssemblyInfoInputs.cache
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\obj\Debug\netcoreapp2.0\RazorHomework.AssemblyInfo.cs
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\obj\Debug\netcoreapp2.0\RazorHomework.dll
+C:\Users\roke1\Desktop\Utn\7 Cuatri\WEB II\Homework\RazorHomework\obj\Debug\netcoreapp2.0\RazorHomework.pdb

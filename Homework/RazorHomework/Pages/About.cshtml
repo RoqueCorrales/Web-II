@@ -1,0 +1,17 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.Message</h3>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Services that you can use...</h2>
+        <ul>
+            <li><a asp-page="/Outsourcing">Outsourcing</a></li>
+            <li><a asp-page="/Software">Software</a></li>
+            <li><a asp-page="/Quality">Quality Assurance</a></li>
+        </ul>
+    </div>
