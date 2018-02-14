@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\MVC\\MVC.csproj",
+      "projectUniqueName": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\Git\\Web-II\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\MVC\\MVC.csproj",
+      "projectPath": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\Git\\Web-II\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\roke1\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\MVC\\obj\\",
+      "outputPath": "c:\\Users\\roke1\\Desktop\\Utn\\7 Cuatri\\WEB II\\Git\\Web-II\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
